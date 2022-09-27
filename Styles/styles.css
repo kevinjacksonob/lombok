@@ -166,18 +166,6 @@ article {
   text-align: center;
 }
 
-@media(max-width: 480px){
-  .article-content {
-    height: 50%;
-    width: 100%;
-    
-    flex-direction: row;
-    
-    gap: 10px;
-    text-align: center;
-  }
-}
-
 .cards-container {
   display: flex;
   gap: 15px;
